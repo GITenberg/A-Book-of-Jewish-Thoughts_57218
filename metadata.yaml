@@ -1,0 +1,25 @@
+_repo: A-Book-of-Jewish-Thoughts_57218
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Hertz, Joseph H. (Joseph Herman)
+    gutenberg_agent_id: '49255'
+    url: http://www.gutenberg.org/2009/agents/49255
+description: ''
+gutenberg_issued: '2018-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Book of Jewish Thoughts
+url: http://www.gutenberg.org/ebooks/57218
